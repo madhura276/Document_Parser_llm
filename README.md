@@ -1,6 +1,4 @@
-# Assisto Technologies – LLM Assignment
-
-## Task Selected: Document Parser
+# Document Parser
 
 ### Problem Statement
 Insurance policy documents are often lengthy and difficult to understand.
@@ -50,12 +48,14 @@ intelligent classification without task-specific model training.
 ---
 
 ## Project Structure
+
+```text
 document-parser-llm/
 ├── app.py
 ├── sample_policy.txt
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
